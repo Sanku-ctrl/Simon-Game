@@ -25,7 +25,7 @@ A simple web-based memory game inspired by the classic **Simon Game**. Test your
 
 ---
 
-## Technologies Used
+## Tech Stack
 
 * HTML5
 * CSS3
